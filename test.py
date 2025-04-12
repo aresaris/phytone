@@ -1,4 +1,3 @@
-a = 33
-b = 200
-if a > a:
-  print("b is greater than a")
+import random
+
+print(random.randrange(1, 10))

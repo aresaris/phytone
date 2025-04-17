@@ -5,4 +5,5 @@ def crivello(x) :
         multipli = [x * i for x in range (2, x)]
         numeri.difference(multipli)
 
+crivello(x)
 print(numeri)
